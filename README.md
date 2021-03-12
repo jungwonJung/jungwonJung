@@ -6,7 +6,7 @@ Hello, I'm Louis 👋
 
 개발공부의 시작은 우리가족들과 더욱 행복해지기위함  멍멍님의 귀찮음을 없애기위함이였습니다😄
 
-저는 :snowboarder:,:headphones:,:bicyclist:,:fries: 좋아합니다:thumbsup:  
+저는 :snowboarder:, :headphones:, :bicyclist:, :fries:  좋아합니다:thumbsup:  
 
 [![JavaScript Badge](http://img.shields.io/badge/-JavaScript%20-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
