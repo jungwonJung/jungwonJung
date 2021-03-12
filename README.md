@@ -13,6 +13,9 @@ Hello, I'm Louis 👋
 [![HTML Badge](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
 [![Node.js Badge](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![HTML Badge](http://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)]()
+[![MongoDB Badge](http://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)]()
+[![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
+[![PostGre Badge](http://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)]()
   
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=Notion&link=https://https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)](https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)
