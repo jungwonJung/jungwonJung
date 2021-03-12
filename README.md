@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNGganzi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/JUNGganzi)
 Hello, I'm Louis 👋
 ====================  
-### 멍멍이:dog2:와 냐옹이:cat2: 집에 얹혀사는 🌱주니어 개발자와, 디자이너:couple:의 이야기
+### 보더콜리와:dog2:와 코딩하는 🌱주니어 개발자의 이야기
 어떻게하면 멍멍님과 냐옹님을 만족시킬지 고민하는 집사입니다🤔
 
 개발공부의 시작은 우리가족들과 더욱 행복해지기위함  멍멍님의 귀찮음을 없애기위함이였습니다😄
