@@ -4,12 +4,12 @@ Hello, I'm Louis 👋
 ### 보더콜리와 코딩하는 백엔드 개발자 정정원입니다.🦮  
 
 어떻게하면 멍멍님과 냐옹님을 만족시킬지 고민하는 집사입니다🤔  
-개발공부의 시작은 우리가족들과 더욱 행복해지기위함  멍멍님의 귀찮음을 없애기위함이였습니다😄  
+개발공부의 우리집 강아지 의류 사이즈를 알려주는 애플리케이션을 만들면서였습니다😄  
 Node.js 로 백엔드를 입문 하였으나🔥  
-현재는 Nest의 생태계를 더욱 좋아합니다!!! 🐱  
-리액트 공부중입니다 (프론트도 관심이 많습니다)  
+현재는 Nest.js의 생태계를 더욱 좋아하게되었습니다!!! 🐱  
+리액트도 공부중입니다 (프론트도 관심이 많습니다)  
 
-저는 :snowboarder:, :headphones:, :bicyclist:, :fries:  좋아합니다:thumbsup:  
+저는 :snowboarder:, :headphones:, :bicyclist:, :fries:  등을 좋아합니다:thumbsup:  
 
 [![JavaScript Badge](http://img.shields.io/badge/-JavaScript%20-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![TypeScript Badge](http://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
