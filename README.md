@@ -25,7 +25,7 @@ Node.js 로 백엔드를 입문 하였으나🔥
  
   
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=Notion&link=https://https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)](https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)
+[![Tech Blog Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=Notion&link=https://https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)](https://phantom-quill-993.notion.site/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)
 
 <!--
 **JUNGganzi/JUNGganzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
