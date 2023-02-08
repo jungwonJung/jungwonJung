@@ -1,13 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNGganzi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/JUNGganzi)
 Hello, I'm Louis 👋
 ====================  
-### 보더콜리와 코딩하는 백엔드 개발자 정정원입니다.🦮  
-
-어떻게하면 멍멍님과 냐옹님을 만족시킬지 고민하는 집사입니다🤔  
-개발공부의 우리집 강아지 의류 사이즈를 알려주는 애플리케이션을 만들면서였습니다😄  
-Node.js 로 백엔드를 입문 하였으나🔥  
-현재는 Nest.js의 생태계를 더욱 좋아하게되었습니다!!! 🐱  
-리액트도 공부중입니다 (프론트도 관심이 많습니다)  
+I worked as a backend developer at a startup for about a year in Korea. 
+Currently, I go to boot camp to become a front-end developer.
+I have experience using Nest.js, JS, TS, AWS, and the database is MongoDB, Elastic Search, and general SQL.
+But now I'm more interested in front-end, so I'm preparing for front-end developers.
+English is a little lacking, but there is no problem with general conversation and communication.
+I will make up for my shortcomings through self-development.
 
 저는 :snowboarder:, :headphones:, :bicyclist:, :fries:  등을 좋아합니다:thumbsup:  
 
@@ -25,7 +24,7 @@ Node.js 로 백엔드를 입문 하였으나🔥
  
   
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=Notion&link=https://https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)](https://phantom-quill-993.notion.site/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=Notion&link=https://https://www.notion.so/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465)](https://phantom-quill-993.notion.site/Hello-I-m-Louis-6ec5e3f6bde04aa89dd19509654ef465) -->
 
 <!--
 **JUNGganzi/JUNGganzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
