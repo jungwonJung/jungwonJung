@@ -8,8 +8,6 @@ But now I'm more interested in front-end, so I'm preparing for front-end develop
 English is a little lacking, but there is no problem with general conversation and communication.
 I will make up for my shortcomings through self-development.
 
-저는 :snowboarder:, :headphones:, :bicyclist:, :fries:  등을 좋아합니다:thumbsup:  
-
 [![JavaScript Badge](http://img.shields.io/badge/-JavaScript%20-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![TypeScript Badge](http://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
 [![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
