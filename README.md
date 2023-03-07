@@ -54,7 +54,7 @@ I will make up for my shortcomings through self-development.
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&layout=compact">
 
 </div>
 
