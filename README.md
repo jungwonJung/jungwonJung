@@ -2,8 +2,12 @@
 	     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jay%20Github!&fontSize=90" />	
 </div>
 
+<div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNGganzi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/JUNGganzi)
+	
+</div>
+	
 <p align=center>
 I worked as a backend developer at a startup for about a year in Korea.    
 I have experience using Nest.js, JS, TS, AWS, and the database is MongoDB, Elastic Search, and general SQL.   
