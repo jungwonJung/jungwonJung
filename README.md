@@ -60,8 +60,9 @@ I will make up for my shortcomings through self-development.
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jungwonJung&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&layout=compact)](https://github.com/jungwonJung/github-readme-stats)
+	<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=gruvbox)
 
 </div>
 
