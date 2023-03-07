@@ -58,11 +58,12 @@ I will make up for my shortcomings through self-development.
 	<br>
 </div>
 
-<!-- <div align=center>
+<div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jungwonJung&show_icons=true">
 
-</div> -->
+</div>
 
 
 
