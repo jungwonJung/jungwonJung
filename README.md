@@ -53,11 +53,11 @@ I will make up for my shortcomings through self-development.
 	     <a href="https://ganzicoder.tistory.com/">
 		      <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	     </a>
-	     <a href="wjdwjd1501@gmail.com">
-		      <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-     	</a>
 	     <a href="https://phantom-quill-993.notion.site/Algorithm-study-journal-4bc9698461404138a6dcb242353d29a4">
 		     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	     </a>
+             <a href="www.linkedin.com/in/jungwon-jung-218750232">
+		      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Blogger&logoColor=white" />
 	     </a>
 	<br>
 </div>
