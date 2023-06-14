@@ -59,8 +59,6 @@ I will make up for my shortcomings through self-development.
 </div>
 
 
-![Snake animation](https://github.com/jungwonJUNG/jungwonJUNG/blob/output/github-contribution-grid-snake.svg
-
 
 
 
