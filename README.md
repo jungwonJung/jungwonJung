@@ -19,20 +19,7 @@ I will make up for my shortcomings through self-development.
 	     <p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	     <br>
-	     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-	     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
-	     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	     <br>
-	     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
-   	     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-	     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
-	     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" /></div>
 </div>
      <br>
 <div align=center>
