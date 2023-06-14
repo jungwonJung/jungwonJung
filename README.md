@@ -16,17 +16,14 @@ I will make up for my shortcomings through self-development.
 </p>
 <div align=center>
 	     <h3>📚 Tech Stack 📚</h3>
-	     <p>✨ Platforms & Languages ✨</p>
+	     <p>🛠 Tools 🛠 & Languages ✨</p>
 </div>
 <div align="center">
 	     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
-	     <p>🛠 Tools 🛠</p>
+	    
 </div>
 <div align=center>
-	     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	     <br>
-	     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	     <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML5" />
 </div>
 <br>
 <br>
