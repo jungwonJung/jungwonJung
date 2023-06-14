@@ -24,6 +24,12 @@ I will make up for my shortcomings through self-development.
 </div>
 <div align=center>
 	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML5" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="css" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="vscode" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="postgres" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="nodejs" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="nestjs" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="nextjs" />
 </div>
 <br>
 <br>
