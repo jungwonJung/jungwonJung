@@ -16,7 +16,7 @@ I will make up for my shortcomings through self-development.
 </p>
 <div align=center>
 	     <h3>📚 Tech Stack 📚</h3>
-	     <p>🛠 Tools 🛠 & Languages ✨</p>
+	   
 </div>
 <div align="center">
 	     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
