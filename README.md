@@ -23,7 +23,7 @@ I will make up for my shortcomings through self-development.
 	    
 </div>
 <div align=center>
-	     <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML5" />
+	     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML5" />
 </div>
 <br>
 <br>
