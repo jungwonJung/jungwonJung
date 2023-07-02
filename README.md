@@ -37,7 +37,7 @@ I will make up for my shortcomings through self-development.
 	     <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	     <a href="wjdwjd15012.wordpress.com">
+	     <a href="https://wjdwjd15012.wordpress.com/">
 		      <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	     </a>
 	     <a href="https://phantom-quill-993.notion.site/Algorithm-study-journal-4bc9698461404138a6dcb242353d29a4">
