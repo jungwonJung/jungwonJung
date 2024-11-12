@@ -9,10 +9,8 @@
 </div>
 	
 <p align=center>
-I worked as a backend developer for about a year at a startup, 
-specializing in Node.js and Nest.js. 
-Currently, I'm working as an iOS developer 
-Continuously enhancing my skills through self-study.
+Hello! I'm currently studying Computer Science in university while working as an iOS developer. <br>
+I also have around 2 years of experience as a backend developer, specializing in Node.js and Nest.js.
 </p>
 <div align=center>
 	     <h3>📚 Tech Stack 📚</h3>
