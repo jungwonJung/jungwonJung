@@ -33,21 +33,13 @@ I will make up for my shortcomings through self-development.
 </div>
 <br>
 <br>
-<div align=center>
-	     <p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	     <a href="https://wjdwjd15012.wordpress.com/">
-		      <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	     </a>
-	     <a href="https://phantom-quill-993.notion.site/Algorithm-study-journal-4bc9698461404138a6dcb242353d29a4">
-		     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	     </a>
-             <a href="https://www.linkedin.com/in/jungwon-jung-218750232">
-		      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
-	     </a>
-	<br>
-</div>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jungwonJung"
+  width="600"
+  height="300"
+/>
+</a>
 <br>
 <br>
 <br>
