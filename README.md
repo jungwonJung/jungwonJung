@@ -3,12 +3,7 @@
 # 💫 About Me:
 **I'm a Software Engineer specializing in Full-Stack Development.**  
 Passionate about building **scalable web applications** and delivering **efficient solutions**.  
-<br>
-**Proficient in:**  
-- JavaScript  
-- React  
-- Node.js  
-- Cloud integration  
+Proficient in JavaScript, React, Node.js, and cloud integration
 <br>
 **Looking for opportunities** to work in dynamic and innovative teams where I can contribute and grow.
 
