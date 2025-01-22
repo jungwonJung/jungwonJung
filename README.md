@@ -34,9 +34,8 @@ Proficient in JavaScript, React, Node.js, and cloud integration
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jungwonJung&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jungwonJung&theme=dark&hide_border=true)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jungwonJung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jungwonJung&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
 
 ---
 
