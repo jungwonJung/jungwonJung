@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
 <div id="header" align="left">
   <h1>Hey there, Jungwon this side! 👋</h1>
 </div>
@@ -56,14 +54,4 @@
 | 1 | [Swift Language Guide (Korean)](https://github.com/bbiguduk/Swift_language_guide_kr) | PR (Merged) | [#36](https://github.com/bbiguduk/Swift_language_guide_kr/pull/36) | Fixed typos and spacing issues in Korean translation of Advanced Operators |
 
 <br>
-
-<hr>
-
-<p align="left">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</b>
-</p>
-
-<hr>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=80&section=footer"/>
 
