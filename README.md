@@ -1,8 +1,6 @@
-<div align="center">
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<div id="header" align="center">
+<div id="header" align="left">
   <h1>Hey there, Jungwon this side! 👋</h1>
 </div>
 
@@ -24,58 +22,48 @@
 
 ## 🌐 Socials:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jungwon-jung-218750232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@NomardJay" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/jungwon-jung-218750232/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@NomardJay" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 <br>
 
 ## 💻 Tech Stack:
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=swift,ios,swiftui,xcode,react,typescript,nodejs,express,mongodb,mysql,git,aws,firebase&perline=7" />
-  </a>
-</div>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <br>
 
 ## 🚀 Open Source Contributions
 
-<div align="center">
-
-| S.No. | Repository | Type | Link |
-|-------|------------|------|------|
-| 1 | [Swift Language Guide (Korean)](https://github.com/bbiguduk/Swift_language_guide_kr) | PR (Merged) | [#36](https://github.com/bbiguduk/Swift_language_guide_kr/pull/36) |
-
-**Contribution Details:**
-- Fixed typos and spacing issues in Korean translation of Advanced Operators
-- Corrected variable name: `combinedbits` → `combinedBits`
-- Fixed attribute typo: `@DrawingBuilding` → `@DrawingBuilder`
-- Improved spacing consistency in Korean text
-
-</div>
+| S.No. | Repository | Type | Link | Description |
+|-------|------------|------|------|-------------|
+| 1 | [Swift Language Guide (Korean)](https://github.com/bbiguduk/Swift_language_guide_kr) | PR (Merged) | [#36](https://github.com/bbiguduk/Swift_language_guide_kr/pull/36) | Fixed typos and spacing issues in Korean translation of Advanced Operators |
 
 <br>
 
 <hr>
 
-<p align="center">
+<p align="left">
   <b>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</b>
 </p>
 
 <hr>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jungwonJung&color=red" alt="Total Github views" />
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=80&section=footer"/>
-
-</div>
 
