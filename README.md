@@ -7,7 +7,7 @@
 </div>
 
 ### 💫 About Me
-- 🔍 QA Engineer with a backend development background — 3+ years building and shipping production APIs before moving into quality
+- 🔍 QA Engineer with a backend development background <br> 3+ years building and shipping production APIs before moving into quality
 - 💼 Currently working as Data QA Analyst at Telus Digital, Kraków
 - 📱 Sole developer & QA owner for 3 iOS apps shipped to the App Store
 - 🧪 Experienced in API testing (Postman, Swagger), test case design, defect reporting, and Jest coverage (17% → 82%)
